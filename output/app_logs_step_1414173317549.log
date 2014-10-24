@@ -1,0 +1,103 @@
+2014-10-25 01:55:13 D/UiObject(14005): getText() = Settings
+2014-10-25 01:55:13 D/dalvikvm(14005): GC_CONCURRENT freed 1951K, 81% free 1198K/6104K, paused 2ms+1ms, total 17ms
+2014-10-25 01:55:13 D/dalvikvm(14005): GC_CONCURRENT freed 1956K, 81% free 1199K/6104K, paused 0ms+1ms, total 6ms
+2014-10-25 01:55:14 D/dalvikvm(14005): GC_CONCURRENT freed 1957K, 81% free 1198K/6104K, paused 1ms+1ms, total 14ms
+2014-10-25 01:55:14 D/BatteryService( 3029): level:77, scale:100, status:2, health:2, present:true, voltage: 3895, temperature: 322, technology: Li-ion, AC powered:false, USB powered:true, Wireless powered:false, icon:17303408, invalid charger:0, online:4, current avg:460, charge type:1
+2014-10-25 01:55:14 D/BatteryService( 3029): Sending ACTION_BATTERY_CHANGED.
+2014-10-25 01:55:14 D/UiModeManager( 3029): mCoverManager.getCoverState() : true
+2014-10-25 01:55:14 D/KeyguardUpdateMonitor( 3237): received broadcast android.intent.action.BATTERY_CHANGED
+2014-10-25 01:55:14 D/KeyguardUpdateMonitor( 3237): handleBatteryUpdate
+2014-10-25 01:55:14 D/STATUSBAR-PhoneStatusBar( 3237):  mBrightnessEnablebySettings = true mBrightnessEnablebyBattery = true mBrightnessEnablebyDisableFlag = true mPmsBrightnessEnablebySettings = true
+2014-10-25 01:55:14 D/BatteryMeterView( 3237): ACTION_BATTERY_CHANGED : level:77 status:2 health:2
+2014-10-25 01:55:14 D/SSRMv2:Monitor( 3029): SIOP:: AP = 430, Prev AP = 410, Duration = 10016, PST = 397
+2014-10-25 01:55:14 D/SSRMv2:AmoledAdjustTimer( 3029): prevTemp = 322, currTemp = 322, prevStep = 4, currStep = 4
+2014-10-25 01:55:14 D/dalvikvm(14036): GC_CONCURRENT freed 4088K, 20% free 22469K/27988K, paused 3ms+4ms, total 41ms
+2014-10-25 01:55:14 D/AbsListView(14036): [unregisterDoubleTapMotionListener]
+2014-10-25 01:55:14 I/MotionRecognitionManager(14036):   .unregisterListener : / listener count = 0->0,
+2014-10-25 01:55:14 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:14 D/dalvikvm(14005): GC_CONCURRENT freed 2976K, 81% free 1198K/6104K, paused 1ms+1ms, total 15ms
+2014-10-25 01:55:15 D/dalvikvm(14005): GC_CONCURRENT freed 1958K, 81% free 1198K/6104K, paused 1ms+0ms, total 7ms
+2014-10-25 01:55:15 D/dalvikvm(14036): GC_CONCURRENT freed 2513K, 22% free 21955K/27988K, paused 7ms+3ms, total 55ms
+2014-10-25 01:55:15 D/dalvikvm(14005): GC_CONCURRENT freed 1957K, 81% free 1198K/6104K, paused 0ms+0ms, total 6ms
+2014-10-25 01:55:15 D/dalvikvm(14005): GC_CONCURRENT freed 2976K, 81% free 1198K/6104K, paused 1ms+1ms, total 14ms
+2014-10-25 01:55:15 W/AccessibilityNodeInfoDumper(14005): Fetch time: 39ms
+2014-10-25 01:55:15 I/QueryController(14005): Matched selector: UiSelector[CLASS=android.widget.TextView, INSTANCE=3, COUNT=3] <<==>> [android.view.accessibility.AccessibilityNodeInfo@2abe2; boundsInParent: Rect(0, 0 - 423, 57); boundsInScreen: Rect(72, 420 - 495, 477); packageName: org.wordpress.android; className: android.widget.TextView; text: imsardine@gmail.com; contentDescription: null; viewIdResName: android:id/summary; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:15 I/QueryController(14005): Matched selector: UiSelector[CLASS=android.widget.TextView, INSTANCE=3, COUNT=3] <<==>> [android.view.accessibility.AccessibilityNodeInfo@2abe2; boundsInParent: Rect(0, 0 - 423, 57); boundsInScreen: Rect(72, 420 - 495, 477); packageName: org.wordpress.android; className: android.widget.TextView; text: imsardine@gmail.com; contentDescription: null; viewIdResName: android:id/summary; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:15 D/UiObject(14005): getText() = imsardine@gmail.com
+2014-10-25 01:55:16 W/EDMNativeHelper( 2534): EDMNativeHelperService is published
+2014-10-25 01:55:16 D/dalvikvm(14005): GC_CONCURRENT freed 4026K, 81% free 1176K/6104K, paused 2ms+1ms, total 24ms
+2014-10-25 01:55:16 D/dalvikvm(14036): GC_CONCURRENT freed 2008K, 22% free 21891K/27988K, paused 3ms+2ms, total 44ms
+2014-10-25 01:55:16 D/dalvikvm(14005): GC_CONCURRENT freed 1936K, 81% free 1165K/6104K, paused 0ms+0ms, total 8ms
+2014-10-25 01:55:17 I/QueryController(14005): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=android:id/action_bar] <<==>> [android.view.accessibility.AccessibilityNodeInfo@2e7f2; boundsInParent: Rect(0, 0 - 1080, 144); boundsInScreen: Rect(0, 75 - 1080, 219); packageName: org.wordpress.android; className: android.view.View; text: null; contentDescription: null; viewIdResName: android:id/action_bar; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS]]
+2014-10-25 01:55:17 I/QueryController(14005): Matched selector: UiSelector[INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.LinearLayout, INSTANCE=0], RESOURCE_ID=android:id/action_bar] <<==>> [android.view.accessibility.AccessibilityNodeInfo@29cde; boundsInParent: Rect(0, 0 - 390, 144); boundsInScreen: Rect(0, 75 - 390, 219); packageName: org.wordpress.android; className: android.widget.LinearLayout; text: null; contentDescription: Settings, Navigate up; viewIdResName: null; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:17 I/QueryController(14005): Matched selector: UiSelector[INSTANCE=0, CHILD=UiSelector[CLASS=android.widget.LinearLayout, INSTANCE=0], RESOURCE_ID=android:id/action_bar] <<==>> [android.view.accessibility.AccessibilityNodeInfo@29cde; boundsInParent: Rect(0, 0 - 390, 144); boundsInScreen: Rect(0, 75 - 390, 219); packageName: org.wordpress.android; className: android.widget.LinearLayout; text: null; contentDescription: Settings, Navigate up; viewIdResName: null; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:17 D/InteractionController(14005): clickAndSync(195, 147)
+2014-10-25 01:55:17 I/InputDispatcher( 3029): Delivering touch to: action: 0x4
+2014-10-25 01:55:17 I/InputDispatcher( 3029): Delivering touch to: action: 0x0
+2014-10-25 01:55:17 E/USB     (14244): [CSSVC	][Connsvc_USB_HandleOpen:1646	] open /dev/android_ssusbcon failed (errno 2 : No such file or directory)
+2014-10-25 01:55:17 E/USB     (14244): [CSSVC	][Connsvc_USB_DeviceCreate:881	] Connsvc_USB_HandleOpen fail.
+2014-10-25 01:55:17 E/USB     (14244): [CSSVC	][Connsvc_USB_DeviceCreate:940	] -- Status -1
+2014-10-25 01:55:17 E/USB     (14244): [CSSVC	][Connsvc_USB_EnumDevice:181	] Connsvc_USB_DeviceCreate fail, deviceName : /dev/android_ssusbcon
+2014-10-25 01:55:17 E/General (14244): [CSSVC	][Connsvc_USB_Init:46	]  -- Status : 0xfffffff4
+2014-10-25 01:55:17 E/General (14244): [CSSVC	][Connsvc_Startup:84	] Connsvc_USB_Init fail. status : -12
+2014-10-25 01:55:17 E/General (14244): [CSSVC	][main:117	] Connsvc_Startup fail. Status : -12
+2014-10-25 01:55:17 I/InputDispatcher( 3029): Delivering touch to: action: 0x1
+2014-10-25 01:55:17 E/DatabaseUtils( 3029): Writing exception to parcel
+2014-10-25 01:55:17 E/DatabaseUtils( 3029): java.lang.SecurityException: Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+2014-10-25 01:55:17 E/DatabaseUtils( 3029): 	at com.android.server.am.ActivityManagerService.handleIncomingUser(ActivityManagerService.java:14610)
+2014-10-25 01:55:17 E/DatabaseUtils( 3029): 	at android.app.ActivityManager.handleIncomingUser(ActivityManager.java:2258)
+2014-10-25 01:55:17 E/DatabaseUtils( 3029): 	at com.android.providers.settings.SettingsProvider.call(SettingsProvider.java:663)
+2014-10-25 01:55:17 E/DatabaseUtils( 3029): 	at android.content.ContentProvider$Transport.call(ContentProvider.java:325)
+2014-10-25 01:55:17 E/DatabaseUtils( 3029): 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:275)
+2014-10-25 01:55:17 E/DatabaseUtils( 3029): 	at android.os.Binder.execTransact(Binder.java:404)
+2014-10-25 01:55:17 E/DatabaseUtils( 3029): 	at dalvik.system.NativeStart.run(Native Method)
+2014-10-25 01:55:17 W/ActivityManager( 3029): Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+2014-10-25 01:55:17 D/dalvikvm(14005): GC_CONCURRENT freed 1920K, 81% free 1208K/6104K, paused 1ms+2ms, total 18ms
+2014-10-25 01:55:17 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1481 com.android.server.am.ActivityStack.startPausingLocked:1006 com.android.server.am.ActivityStack.finishActivityLocked:3164 com.android.server.am.ActivityStack.requestFinishActivityLocked:2977 com.android.server.am.ActivityManagerService.finishActivity:4378
+2014-10-25 01:55:17 V/SmartFaceService - 3rd party pause( 3029): onReceive [android.intent.action.ACTIVITY_STATE/org.wordpress.android/pause]
+2014-10-25 01:55:17 D/SSRMv2:CustomFrequencyManagerService( 3029): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  pkgName : ACTIVITY_RESUME_BOOSTER@4
+2014-10-25 01:55:17 W/ActivityManager( 3029): mDVFSHelper.acquire()
+2014-10-25 01:55:17 D/STATUSBAR-NetworkController( 3237): refreshSignalCluster: data=-1 bt=false
+2014-10-25 01:55:17 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:17 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1481 com.android.server.am.ActivityStack.resumeTopActivityLocked:2183 com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked:3110 com.android.server.am.ActivityStack.completePauseLocked:1231 com.android.server.am.ActivityStack.activityPausedLocked:1092
+2014-10-25 01:55:17 V/SmartFaceService - 3rd party pause( 3029): onReceive [android.intent.action.ACTIVITY_STATE/org.wordpress.android/resume]
+2014-10-25 01:55:17 D/AbsListView(14036): Get MotionRecognitionManager
+2014-10-25 01:55:17 D/STATUSBAR-IconMerger( 3237): checkOverflow(648), More:false, Req:false Child:7
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:17 D/AbsListView(14036): onDetachedFromWindow
+2014-10-25 01:55:17 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:17 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:17 V/WordPress-NOTIFS(14036): Already registered for GCM
+2014-10-25 01:55:17 W/MixpanelAPI.ConfigurationChecker(14036): com.mixpanel.android.surveys.SurveyActivity is not registered as an activity in your application, so surveys can't be shown.
+2014-10-25 01:55:17 I/MixpanelAPI.ConfigurationChecker(14036): Please add the child tag <activity android:name="com.mixpanel.android.surveys.SurveyActivity" /> to your <application> tag.
+2014-10-25 01:55:17 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 0
+2014-10-25 01:55:17 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:17 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 0
+2014-10-25 01:55:17 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:17 I/SurfaceFlinger( 2540): id=292 createSurf (1080x1920),1 flag=404, QostsActivi
+2014-10-25 01:55:17 I/SpenGestureManager( 3029): setFocusWindow21025
+2014-10-25 01:55:17 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:17 D/PointerIcon( 3029): setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+2014-10-25 01:55:17 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:17 D/PointerIcon( 3029): setMouseCustomIcon IconType is same.101
+2014-10-25 01:55:17 D/PointerIcon( 3029): setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+2014-10-25 01:55:17 D/PointerIcon( 3029): setHoveringSpenCustomIcon IconType is same.1
+2014-10-25 01:55:17 D/STATUSBAR-StatusBarManagerService( 3029): manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+2014-10-25 01:55:17 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:17 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:17 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:17 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:17 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:17 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:17 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:17 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:17 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:17 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1467 com.android.server.InputMethodManagerService$4.run:2759 java.lang.Thread.run:841 <bottom of call stack> <bottom of call stack>
+2014-10-25 01:55:17 D/KeyguardViewMediator( 3237): setHidden false

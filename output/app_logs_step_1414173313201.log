@@ -1,0 +1,850 @@
+2014-10-25 01:55:06 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:06 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:06 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:06 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:06 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:06 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:06 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:06 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/USB     (14148): [CSSVC	][Connsvc_USB_HandleOpen:1646	] open /dev/android_ssusbcon failed (errno 2 : No such file or directory)
+2014-10-25 01:55:07 E/USB     (14148): [CSSVC	][Connsvc_USB_DeviceCreate:881	] Connsvc_USB_HandleOpen fail.
+2014-10-25 01:55:07 E/USB     (14148): [CSSVC	][Connsvc_USB_DeviceCreate:940	] -- Status -1
+2014-10-25 01:55:07 E/USB     (14148): [CSSVC	][Connsvc_USB_EnumDevice:181	] Connsvc_USB_DeviceCreate fail, deviceName : /dev/android_ssusbcon
+2014-10-25 01:55:07 E/General (14148): [CSSVC	][Connsvc_USB_Init:46	]  -- Status : 0xfffffff4
+2014-10-25 01:55:07 E/General (14148): [CSSVC	][Connsvc_Startup:84	] Connsvc_USB_Init fail. status : -12
+2014-10-25 01:55:07 E/General (14148): [CSSVC	][main:117	] Connsvc_Startup fail. Status : -12
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 D/STATUSBAR-NetworkController( 3237): refreshSignalCluster: data=-1 bt=false
+2014-10-25 01:55:07 D/STATUSBAR-IconMerger( 3237): checkOverflow(648), More:false, Req:false Child:7
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 D/lights  ( 3029): button : 0 +
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 D/lights  ( 3029): button : 0 -
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 D/dalvikvm(14005): GC_CONCURRENT freed 1946K, 81% free 1163K/6104K, paused 1ms+1ms, total 7ms
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 D/STATUSBAR-NetworkController( 3237): onSignalStrengthsChanged signalStrength=SignalStrength: 25 -1 -1 -1 -1 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 gsm|lte 0x4 level=4
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:07 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:07 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:07 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 I/System.out(14036): AsyncTask #2 calls detatch()
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 V/WordPress-UTILS(14036): instantiate XMLRPCClient using sFactory: class org.xmlrpc.android.XMLRPCFactoryDefault
+2014-10-25 01:55:08 D/dalvikvm(14036): GC_CONCURRENT freed 1890K, 18% free 19057K/23108K, paused 3ms+4ms, total 44ms
+2014-10-25 01:55:08 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1481 com.android.server.am.ActivityStack.startPausingLocked:1006 com.android.server.am.ActivityStack.finishActivityLocked:3164 com.android.server.am.ActivityStack.requestFinishActivityLocked:2977 com.android.server.am.ActivityManagerService.finishActivity:4378
+2014-10-25 01:55:08 V/SmartFaceService - 3rd party pause( 3029): onReceive [android.intent.action.ACTIVITY_STATE/org.wordpress.android/pause]
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 I/WordPress-READER(14036): reader service > created
+2014-10-25 01:55:08 D/WordPress-READER(14036): reader service > updating tags
+2014-10-25 01:55:08 D/SSRMv2:CustomFrequencyManagerService( 3029): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  pkgName : ACTIVITY_RESUME_BOOSTER@4
+2014-10-25 01:55:08 W/ActivityManager( 3029): mDVFSHelper.acquire()
+2014-10-25 01:55:08 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1481 com.android.server.am.ActivityStack.resumeTopActivityLocked:2183 com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked:3110 com.android.server.am.ActivityStack.completePauseLocked:1231 com.android.server.am.ActivityStack.activityPausedLocked:1092
+2014-10-25 01:55:08 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:08 V/SmartFaceService - 3rd party pause( 3029): onReceive [android.intent.action.ACTIVITY_STATE/org.wordpress.android/resume]
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 D/AbsListView(14036): Get MotionRecognitionManager
+2014-10-25 01:55:08 V/WordPress-NOTIFS(14036): Already registered for GCM
+2014-10-25 01:55:08 W/MixpanelAPI.ConfigurationChecker(14036): com.mixpanel.android.surveys.SurveyActivity is not registered as an activity in your application, so surveys can't be shown.
+2014-10-25 01:55:08 I/MixpanelAPI.ConfigurationChecker(14036): Please add the child tag <activity android:name="com.mixpanel.android.surveys.SurveyActivity" /> to your <application> tag.
+2014-10-25 01:55:08 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 4
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 4
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 0
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 0
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 I/SurfaceFlinger( 2540): id=288 createSurf (1x1),1 flag=404, QostsActivi
+2014-10-25 01:55:08 I/SpenGestureManager( 3029): setFocusWindow21025
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:08 D/STATUSBAR-StatusBarManagerService( 3029): manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+2014-10-25 01:55:08 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:08 D/PointerIcon( 3029): setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+2014-10-25 01:55:08 D/PointerIcon( 3029): setMouseCustomIcon IconType is same.101
+2014-10-25 01:55:08 D/PointerIcon( 3029): setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+2014-10-25 01:55:08 D/PointerIcon( 3029): setHoveringSpenCustomIcon IconType is same.1
+2014-10-25 01:55:08 D/dalvikvm(14036): GC_FOR_ALLOC freed 880K, 15% free 19686K/23108K, paused 15ms, total 15ms
+2014-10-25 01:55:08 D/AbsListView(14036): [unregisterDoubleTapMotionListener]
+2014-10-25 01:55:08 I/MotionRecognitionManager(14036):   .unregisterListener : / listener count = 0->0,
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 D/dalvikvm(14036): GC_FOR_ALLOC freed 45K, 15% free 19704K/23168K, paused 14ms, total 14ms
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 V/WordPress-UTILS(14036): instantiate XMLRPCClient using sFactory: class org.xmlrpc.android.XMLRPCFactoryDefault
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:08 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:08 I/SurfaceFlinger( 2540): id=289 createSurf (1080x1),1 flag=4, QostsActivi
+2014-10-25 01:55:08 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:08 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:08 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:08 D/ProgressBar(14036): updateDrawableBounds: left = 0
+2014-10-25 01:55:08 D/ProgressBar(14036): updateDrawableBounds: top = 0
+2014-10-25 01:55:08 D/ProgressBar(14036): updateDrawableBounds: right = 1080
+2014-10-25 01:55:08 D/ProgressBar(14036): updateDrawableBounds: bottom = 9
+2014-10-25 01:55:08 D/ProgressBar(14036): updateDrawableBounds: mProgressDrawable.setBounds()
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1467 com.android.server.InputMethodManagerService$4.run:2759 java.lang.Thread.run:841 <bottom of call stack> <bottom of call stack>
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:08 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:08 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:08 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:08 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:08 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:08 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:09 D/SSRMv2:CustomFrequencyManagerService( 3029): releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  tag : ACTIVITY_RESUME_BOOSTER@4
+2014-10-25 01:55:09 W/ActivityManager( 3029): mDVFSHelper.release()
+2014-10-25 01:55:09 D/SSRMv2:CustomFrequencyManagerService( 3029): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  pkgName : ACTIVITY_RESUME_BOOSTER@7
+2014-10-25 01:55:09 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:09 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:09 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:09 I/SurfaceFlinger( 2540): id=286 Removed XelcomeActi (14/15)
+2014-10-25 01:55:09 I/SurfaceFlinger( 2540): id=286 Removed XelcomeActi (-2/15)
+2014-10-25 01:55:09 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:09 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:09 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:09 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:09 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:09 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:09 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:09 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:09 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:09 D/SSRMv2:CustomFrequencyManagerService( 3029): releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  tag : ACTIVITY_RESUME_BOOSTER@7
+2014-10-25 01:55:09 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:09 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:09 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:09 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:09 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:09 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:09 I/System.out(14036): AsyncTask #3 calls detatch()
+2014-10-25 01:55:09 D/Simperium.AndroidClient(14036): Using 3 cores for executors
+2014-10-25 01:55:09 D/dalvikvm(14036): GC_CONCURRENT freed 2119K, 15% free 20659K/24236K, paused 2ms+3ms, total 31ms
+2014-10-25 01:55:09 D/dalvikvm(14036): WAIT_FOR_CONCURRENT_GC blocked 14ms
+2014-10-25 01:55:09 I/dalvikvm(14036): Jit: resizing JitTable from 4096 to 8192
+2014-10-25 01:55:09 D/dalvikvm(14036): GC_CONCURRENT freed 1694K, 14% free 21012K/24236K, paused 2ms+2ms, total 35ms
+2014-10-25 01:55:09 D/dalvikvm(14036): WAIT_FOR_CONCURRENT_GC blocked 23ms
+2014-10-25 01:55:09 D/dalvikvm(14036): WAIT_FOR_CONCURRENT_GC blocked 23ms
+2014-10-25 01:55:09 I/System.out(14036): AsyncTask #5 calls detatch()
+2014-10-25 01:55:10 V/WordPress-UTILS(14036): instantiate XMLRPCClient using sFactory: class org.xmlrpc.android.XMLRPCFactoryDefault
+2014-10-25 01:55:10 D/lights  ( 3029): button : 1 +
+2014-10-25 01:55:10 I/InputDispatcher( 3029): Delivering key to: action: 0x0 (0)
+2014-10-25 01:55:10 D/lights  ( 3029): button : 1 -
+2014-10-25 01:55:10 D/Simperium(14036): Initializing Simperium android-0.5.0
+2014-10-25 01:55:10 D/Simperium.WebSocket(14036): Asked to connect
+2014-10-25 01:55:10 D/Simperium.WebSocket(14036): Connecting
+2014-10-25 01:55:10 D/Simperium.WebSocket(14036): Connecting to null
+2014-10-25 01:55:10 D/dalvikvm(14036): GC_CONCURRENT freed 1342K, 12% free 21707K/24520K, paused 6ms+6ms, total 69ms
+2014-10-25 01:55:10 D/dalvikvm(14036): WAIT_FOR_CONCURRENT_GC blocked 47ms
+2014-10-25 01:55:10 D/dalvikvm(14036): WAIT_FOR_CONCURRENT_GC blocked 49ms
+2014-10-25 01:55:10 I/System.out(14036): AsyncTask #3 calls detatch()
+2014-10-25 01:55:10 D/Simperium.WebSocket(14036): Asked to connect
+2014-10-25 01:55:10 V/WordPress-UTILS(14036): instantiate XMLRPCClient using sFactory: class org.xmlrpc.android.XMLRPCFactoryDefault
+2014-10-25 01:55:10 I/Choreographer(14036): Skipped 52 frames!  The application may be doing too much work on its main thread.
+2014-10-25 01:55:10 I/InputDispatcher( 3029): Delivering key to: action: 0x1 (0)
+2014-10-25 01:55:10 D/AbsListView(14036): Get MotionRecognitionManager
+2014-10-25 01:55:10 I/SpenGestureManager( 3029): setFocusWindow0
+2014-10-25 01:55:10 D/PointerIcon( 3029): setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+2014-10-25 01:55:10 D/PointerIcon( 3029): setMouseCustomIcon IconType is same.101
+2014-10-25 01:55:10 D/PointerIcon( 3029): setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+2014-10-25 01:55:10 D/PointerIcon( 3029): setHoveringSpenCustomIcon IconType is same.1
+2014-10-25 01:55:10 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:10 I/SurfaceFlinger( 2540): id=290 createSurf (1x1),1 flag=4, QostsActivi
+2014-10-25 01:55:10 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:10 D/STATUSBAR-NetworkController( 3237): onSignalStrengthsChanged signalStrength=SignalStrength: 26 -1 -1 -1 -1 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 gsm|lte 0x4 level=4
+2014-10-25 01:55:10 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:10 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:10 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:10 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:10 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 0
+2014-10-25 01:55:10 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:10 D/ProgressBar(14036): updateDrawableBounds: left = 0
+2014-10-25 01:55:10 D/ProgressBar(14036): updateDrawableBounds: top = 0
+2014-10-25 01:55:10 D/ProgressBar(14036): updateDrawableBounds: right = 84
+2014-10-25 01:55:10 D/ProgressBar(14036): updateDrawableBounds: bottom = 84
+2014-10-25 01:55:10 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:10 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:10 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:10 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:10 I/SurfaceFlinger( 2540): id=289 Removed QostsActivi (13/15)
+2014-10-25 01:55:10 I/SurfaceFlinger( 2540): id=289 Removed QostsActivi (-2/15)
+2014-10-25 01:55:10 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:10 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:10 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:10 D/dalvikvm(14005): GC_CONCURRENT freed 1884K, 81% free 1213K/6104K, paused 1ms+1ms, total 15ms
+2014-10-25 01:55:10 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:10 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:10 E/Watchdog( 3029): !@Sync 864
+2014-10-25 01:55:11 W/EDMNativeHelper( 2534): EDMNativeHelperService is published
+2014-10-25 01:55:11 I/System.out(14036): AsyncTask #5 calls detatch()
+2014-10-25 01:55:11 D/WordPress(14036): [1] Request.finish: 3052 ms: [ ] https://public-api.wordpress.com/oauth2/token 0x7b2dc254 NORMAL 3
+2014-10-25 01:55:11 I/System.out(14036): AsyncTask #3 calls detatch()
+2014-10-25 01:55:11 D/WordPress(14036): [1] Request.finish: 3131 ms: [ ] https://public-api.wordpress.com/oauth2/token 0x7b2dc254 NORMAL 4
+2014-10-25 01:55:11 I/QueryController(14005): Matched selector: UiSelector[TEXT=Settings, INSTANCE=0] <<==>> [android.view.accessibility.AccessibilityNodeInfo@26fd1; boundsInParent: Rect(0, 0 - 702, 72); boundsInScreen: Rect(189, 1666 - 891, 1738); packageName: org.wordpress.android; className: android.widget.TextView; text: Settings; contentDescription: null; viewIdResName: android:id/title; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:11 D/lights  ( 3029): button : 0 +
+2014-10-25 01:55:11 I/QueryController(14005): Matched selector: UiSelector[TEXT=Settings, INSTANCE=0] <<==>> [android.view.accessibility.AccessibilityNodeInfo@26fd1; boundsInParent: Rect(0, 0 - 702, 72); boundsInScreen: Rect(189, 1666 - 891, 1738); packageName: org.wordpress.android; className: android.widget.TextView; text: Settings; contentDescription: null; viewIdResName: android:id/title; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:11 D/InteractionController(14005): clickAndSync(540, 1702)
+2014-10-25 01:55:11 I/InputDispatcher( 3029): Delivering touch to: action: 0x4
+2014-10-25 01:55:11 I/InputDispatcher( 3029): Delivering touch to: action: 0x0
+2014-10-25 01:55:11 D/lights  ( 3029): button : 0 -
+2014-10-25 01:55:11 D/WordPress(14036): [1] Request.finish: 3180 ms: [ ] https://public-api.wordpress.com/oauth2/token 0x7b2dc254 NORMAL 5
+2014-10-25 01:55:11 I/InputDispatcher( 3029): Delivering touch to: action: 0x1
+2014-10-25 01:55:11 E/DatabaseUtils( 3029): Writing exception to parcel
+2014-10-25 01:55:11 E/DatabaseUtils( 3029): java.lang.SecurityException: Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+2014-10-25 01:55:11 E/DatabaseUtils( 3029): 	at com.android.server.am.ActivityManagerService.handleIncomingUser(ActivityManagerService.java:14610)
+2014-10-25 01:55:11 E/DatabaseUtils( 3029): 	at android.app.ActivityManager.handleIncomingUser(ActivityManager.java:2258)
+2014-10-25 01:55:11 E/DatabaseUtils( 3029): 	at com.android.providers.settings.SettingsProvider.call(SettingsProvider.java:663)
+2014-10-25 01:55:11 E/DatabaseUtils( 3029): 	at android.content.ContentProvider$Transport.call(ContentProvider.java:325)
+2014-10-25 01:55:11 E/DatabaseUtils( 3029): 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:275)
+2014-10-25 01:55:11 E/DatabaseUtils( 3029): 	at android.os.Binder.execTransact(Binder.java:404)
+2014-10-25 01:55:11 E/DatabaseUtils( 3029): 	at dalvik.system.NativeStart.run(Native Method)
+2014-10-25 01:55:11 W/ActivityManager( 3029): Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+2014-10-25 01:55:11 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:11 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:11 D/SSRMv2:CustomFrequencyManagerService( 3029): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  pkgName : ACTIVITY_RESUME_BOOSTER@4
+2014-10-25 01:55:11 W/ActivityManager( 3029): mDVFSHelper.acquire()
+2014-10-25 01:55:11 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1481 com.android.server.am.ActivityStack.startPausingLocked:1006 com.android.server.am.ActivityStack.resumeTopActivityLocked:1945 com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked:3110 com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked:3082
+2014-10-25 01:55:11 D/PointerIcon( 3029): setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+2014-10-25 01:55:11 D/PointerIcon( 3029): setMouseCustomIcon IconType is same.101
+2014-10-25 01:55:11 D/PointerIcon( 3029): setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+2014-10-25 01:55:11 D/PointerIcon( 3029): setHoveringSpenCustomIcon IconType is same.1
+2014-10-25 01:55:11 V/SmartFaceService - 3rd party pause( 3029): onReceive [android.intent.action.ACTIVITY_STATE/org.wordpress.android/pause]
+2014-10-25 01:55:11 E/QueryController(14005): Got null root node from accessibility - Retrying...
+2014-10-25 01:55:11 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1481 com.android.server.am.ActivityStackSupervisor.realStartActivityLocked:1167 com.android.server.am.ActivityStackSupervisor.startSpecificActivityLocked:1318 com.android.server.am.ActivityStack.resumeTopActivityLocked:2269 com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked:3110
+2014-10-25 01:55:11 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:11 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:11 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:11 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:11 D/AbsListView(14036): onDetachedFromWindow
+2014-10-25 01:55:11 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:11 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:11 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:11 V/SmartFaceService - 3rd party pause( 3029): onReceive [android.intent.action.ACTIVITY_STATE/org.wordpress.android/create]
+2014-10-25 01:55:11 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:11 W/ApplicationPackageManager(14036): getCSCPackageItemText()
+2014-10-25 01:55:11 D/MultiPhoneWindow(14036): generateLayout : sMinimumStackBoundForPortraitOrientRect(0, 0 - 0, 0), sMinimumStackBoundForLandscapeOrient=Rect(0, 0 - 0, 0)
+2014-10-25 01:55:11 D/AbsListView(14036): Get MotionRecognitionManager
+2014-10-25 01:55:11 D/MotionRecognitionService( 3029):  ssp status : true
+2014-10-25 01:55:11 D/AbsListView(14036): Get MotionRecognitionManager
+2014-10-25 01:55:11 E/WordPress-NOTIFS(14036): device_ID is null in preferences. Get device settings skipped.
+2014-10-25 01:55:11 D/WordPress-NOTIFS(14036): Preferences > loading notification settings
+2014-10-25 01:55:11 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 4
+2014-10-25 01:55:11 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:11 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 0
+2014-10-25 01:55:11 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:11 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:11 I/SurfaceFlinger( 2540): id=291 createSurf (1x1),1 flag=404, Qreferences
+2014-10-25 01:55:11 I/SpenGestureManager( 3029): setFocusWindow21040
+2014-10-25 01:55:11 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:11 D/STATUSBAR-StatusBarManagerService( 3029): manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+2014-10-25 01:55:11 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:11 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:11 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:11 D/Simperium.WebSocket(14036): Connected
+2014-10-25 01:55:11 D/Simperium.Channel(14036): onConnect autoStart? true
+2014-10-25 01:55:11 D/Simperium.Channel(14036): onConnect autoStart? true
+2014-10-25 01:55:11 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:11 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:11 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:11 D/PointerIcon( 3029): setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+2014-10-25 01:55:11 D/PointerIcon( 3029): setMouseCustomIcon IconType is same.101
+2014-10-25 01:55:11 D/PointerIcon( 3029): setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+2014-10-25 01:55:11 D/PointerIcon( 3029): setHoveringSpenCustomIcon IconType is same.1
+2014-10-25 01:55:11 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:12 D/WordPress-READER(14036): reader service > followed topics changed
+2014-10-25 01:55:12 D/WordPress-READER(14036): reader service > recommended topics changed
+2014-10-25 01:55:12 I/WordPress-READER(14036): reader service > all tasks completed
+2014-10-25 01:55:12 E/QueryController(14005): Got null root node from accessibility - Retrying...
+2014-10-25 01:55:12 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:12 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:12 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:12 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:12 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:12 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:12 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:12 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:12 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1467 com.android.server.InputMethodManagerService$4.run:2759 java.lang.Thread.run:841 <bottom of call stack> <bottom of call stack>
+2014-10-25 01:55:12 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:12 D/WordPress-NOTIFS(14036): Register token action succeeded
+2014-10-25 01:55:12 D/WordPress-NOTIFS(14036): Server response OK. The device_id : 7254855
+2014-10-25 01:55:12 E/USB     (14193): [CSSVC	][Connsvc_USB_HandleOpen:1646	] open /dev/android_ssusbcon failed (errno 2 : No such file or directory)
+2014-10-25 01:55:12 E/USB     (14193): [CSSVC	][Connsvc_USB_DeviceCreate:881	] Connsvc_USB_HandleOpen fail.
+2014-10-25 01:55:12 E/USB     (14193): [CSSVC	][Connsvc_USB_DeviceCreate:940	] -- Status -1
+2014-10-25 01:55:12 E/USB     (14193): [CSSVC	][Connsvc_USB_EnumDevice:181	] Connsvc_USB_DeviceCreate fail, deviceName : /dev/android_ssusbcon
+2014-10-25 01:55:12 E/General (14193): [CSSVC	][Connsvc_USB_Init:46	]  -- Status : 0xfffffff4
+2014-10-25 01:55:12 E/General (14193): [CSSVC	][Connsvc_Startup:84	] Connsvc_USB_Init fail. status : -12
+2014-10-25 01:55:12 E/General (14193): [CSSVC	][main:117	] Connsvc_Startup fail. Status : -12
+2014-10-25 01:55:12 I/WordPress-READER(14036): reader service > destroyed
+2014-10-25 01:55:12 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:12 D/Simperium.Channel(14036): Unkown command received: o
+2014-10-25 01:55:12 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:12 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:12 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:12 D/SSRMv2:CustomFrequencyManagerService( 3029): releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  tag : ACTIVITY_RESUME_BOOSTER@4
+2014-10-25 01:55:12 W/ActivityManager( 3029): mDVFSHelper.release()
+2014-10-25 01:55:12 D/SSRMv2:CustomFrequencyManagerService( 3029): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  pkgName : ACTIVITY_RESUME_BOOSTER@7
+2014-10-25 01:55:12 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 4
+2014-10-25 01:55:12 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:12 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 4
+2014-10-25 01:55:12 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:12 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:12 I/SurfaceFlinger( 2540): id=288 Removed QostsActivi (10/15)
+2014-10-25 01:55:12 I/SurfaceFlinger( 2540): id=288 Removed QostsActivi (-2/15)
+2014-10-25 01:55:12 I/SurfaceFlinger( 2540): id=290 Removed QostsActivi (11/14)
+2014-10-25 01:55:12 I/SurfaceFlinger( 2540): id=290 Removed QostsActivi (-2/14)
+2014-10-25 01:55:12 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:12 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:12 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:12 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:12 D/Simperium.Channel(14036): Unkown command received: o
+2014-10-25 01:55:12 D/Simperium.Channel(14036): Index did not have current version
+2014-10-25 01:55:12 D/SSRMv2:CustomFrequencyManagerService( 3029): releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  tag : ACTIVITY_RESUME_BOOSTER@7
+2014-10-25 01:55:13 D/STATUSBAR-NetworkController( 3237): onSignalStrengthsChanged signalStrength=SignalStrength: 27 -1 -1 -1 -1 -1 -1 99 2147483647 2147483647 2147483647 -1 2147483647 gsm|lte 0x4 level=4
+2014-10-25 01:55:13 I/QueryController(14005): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=android:id/action_bar_title] <<==>> [android.view.accessibility.AccessibilityNodeInfo@2991d; boundsInParent: Rect(0, 0 - 198, 72); boundsInScreen: Rect(168, 111 - 366, 183); packageName: org.wordpress.android; className: android.widget.TextView; text: Settings; contentDescription: null; viewIdResName: android:id/action_bar_title; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:13 I/QueryController(14005): Matched selector: UiSelector[INSTANCE=0, RESOURCE_ID=android:id/action_bar_title] <<==>> [android.view.accessibility.AccessibilityNodeInfo@2991d; boundsInParent: Rect(0, 0 - 198, 72); boundsInScreen: Rect(168, 111 - 366, 183); packageName: org.wordpress.android; className: android.widget.TextView; text: Settings; contentDescription: null; viewIdResName: android:id/action_bar_title; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]

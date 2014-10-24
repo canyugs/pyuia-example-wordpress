@@ -1,0 +1,345 @@
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:17 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:17 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:17 D/SSRMv2:CustomFrequencyManagerService( 3029): releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  tag : ACTIVITY_RESUME_BOOSTER@4
+2014-10-25 01:55:17 W/ActivityManager( 3029): mDVFSHelper.release()
+2014-10-25 01:55:17 D/SSRMv2:CustomFrequencyManagerService( 3029): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  pkgName : ACTIVITY_RESUME_BOOSTER@7
+2014-10-25 01:55:17 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:17 D/AbsListView(14036): onDetachedFromWindow
+2014-10-25 01:55:17 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:17 I/SurfaceFlinger( 2540): id=291 Removed Qreferences (13/14)
+2014-10-25 01:55:17 I/SurfaceFlinger( 2540): id=291 Removed Qreferences (-2/14)
+2014-10-25 01:55:17 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:17 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:17 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:17 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:17 D/WordPress-NOTIFS(14036): Register token action succeeded
+2014-10-25 01:55:17 D/WordPress-NOTIFS(14036): Server response OK. The device_id : 7254855
+2014-10-25 01:55:18 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:18 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:18 D/SSRMv2:CustomFrequencyManagerService( 3029): releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  tag : ACTIVITY_RESUME_BOOSTER@7
+2014-10-25 01:55:18 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:18 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:18 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:18 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:18 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:18 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:18 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:18 D/STATUSBAR-NetworkController( 3237): refreshSignalCluster: data=-1 bt=false
+2014-10-25 01:55:18 D/STATUSBAR-IconMerger( 3237): checkOverflow(648), More:false, Req:false Child:7
+2014-10-25 01:55:19 D/dalvikvm(14036): GC_CONCURRENT freed 1328K, 20% free 22517K/27988K, paused 4ms+3ms, total 53ms
+2014-10-25 01:55:19 D/AbsListView(14036): [unregisterDoubleTapMotionListener]
+2014-10-25 01:55:19 I/MotionRecognitionManager(14036):   .unregisterListener : / listener count = 0->0,
+2014-10-25 01:55:19 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:19 D/dalvikvm(14005): GC_CONCURRENT freed 2971K, 81% free 1192K/6104K, paused 0ms+1ms, total 10ms
+2014-10-25 01:55:19 D/STATUSBAR-NetworkController( 3237): refreshSignalCluster: data=-1 bt=false
+2014-10-25 01:55:19 D/STATUSBAR-IconMerger( 3237): checkOverflow(648), More:false, Req:false Child:7
+2014-10-25 01:55:19 D/dalvikvm(14005): GC_CONCURRENT freed 1898K, 81% free 1214K/6104K, paused 2ms+0ms, total 10ms
+2014-10-25 01:55:19 D/lights  ( 3029): button : 1 +
+2014-10-25 01:55:19 I/InputDispatcher( 3029): Delivering key to: action: 0x0 (0)
+2014-10-25 01:55:19 I/InputDispatcher( 3029): Delivering key to: action: 0x1 (0)
+2014-10-25 01:55:19 I/SpenGestureManager( 3029): setFocusWindow0
+2014-10-25 01:55:19 D/lights  ( 3029): button : 1 -
+2014-10-25 01:55:19 D/PointerIcon( 3029): setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+2014-10-25 01:55:19 D/PointerIcon( 3029): setMouseCustomIcon IconType is same.101
+2014-10-25 01:55:19 D/PointerIcon( 3029): setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+2014-10-25 01:55:19 D/PointerIcon( 3029): setHoveringSpenCustomIcon IconType is same.1
+2014-10-25 01:55:19 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:19 I/SurfaceFlinger( 2540): id=293 createSurf (1x1),1 flag=4, QostsActivi
+2014-10-25 01:55:19 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:19 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:19 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:19 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:19 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:19 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:19 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:19 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:19 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:19 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:19 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:19 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:19 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:19 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:19 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:19 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:20 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:20 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:20 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:20 D/dalvikvm(14005): GC_CONCURRENT freed 1998K, 81% free 1161K/6104K, paused 1ms+3ms, total 30ms
+2014-10-25 01:55:20 W/GraphicBufferAllocator( 2540): free(...) failed -22 (Invalid argument)
+2014-10-25 01:55:21 W/EDMNativeHelper( 2534): EDMNativeHelperService is published
+2014-10-25 01:55:21 D/lights  ( 3029): button : 0 +
+2014-10-25 01:55:21 D/lights  ( 3029): button : 0 -
+2014-10-25 01:55:21 D/STATUSBAR-NetworkController( 3237): refreshSignalCluster: data=-1 bt=false
+2014-10-25 01:55:21 D/STATUSBAR-IconMerger( 3237): checkOverflow(648), More:false, Req:false Child:7
+2014-10-25 01:55:21 D/dalvikvm(14005): GC_CONCURRENT freed 1936K, 81% free 1160K/6104K, paused 0ms+1ms, total 10ms
+2014-10-25 01:55:21 D/dalvikvm(14005): GC_CONCURRENT freed 1951K, 82% free 1150K/6104K, paused 0ms+0ms, total 9ms
+2014-10-25 01:55:21 D/dalvikvm(14005): GC_CONCURRENT freed 1913K, 82% free 1156K/6104K, paused 2ms+0ms, total 10ms
+2014-10-25 01:55:22 I/QueryController(14005): Matched selector: UiSelector[TEXT=Sign out, INSTANCE=0] <<==>> [android.view.accessibility.AccessibilityNodeInfo@27394; boundsInParent: Rect(0, 0 - 702, 72); boundsInScreen: Rect(189, 1812 - 891, 1884); packageName: org.wordpress.android; className: android.widget.TextView; text: Sign out; contentDescription: null; viewIdResName: android:id/title; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:22 I/QueryController(14005): Matched selector: UiSelector[TEXT=Sign out, INSTANCE=0] <<==>> [android.view.accessibility.AccessibilityNodeInfo@27394; boundsInParent: Rect(0, 0 - 702, 72); boundsInScreen: Rect(189, 1812 - 891, 1884); packageName: org.wordpress.android; className: android.widget.TextView; text: Sign out; contentDescription: null; viewIdResName: android:id/title; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:22 D/InteractionController(14005): clickAndSync(540, 1848)
+2014-10-25 01:55:22 I/InputDispatcher( 3029): Delivering touch to: action: 0x4
+2014-10-25 01:55:22 I/InputDispatcher( 3029): Delivering touch to: action: 0x0
+2014-10-25 01:55:22 I/InputDispatcher( 3029): Delivering touch to: action: 0x1
+2014-10-25 01:55:22 D/dalvikvm(14036): GC_CONCURRENT freed 2569K, 22% free 21900K/27988K, paused 4ms+6ms, total 82ms
+2014-10-25 01:55:22 E/USB     (14271): [CSSVC	][Connsvc_USB_HandleOpen:1646	] open /dev/android_ssusbcon failed (errno 2 : No such file or directory)
+2014-10-25 01:55:22 E/USB     (14271): [CSSVC	][Connsvc_USB_DeviceCreate:881	] Connsvc_USB_HandleOpen fail.
+2014-10-25 01:55:22 E/USB     (14271): [CSSVC	][Connsvc_USB_DeviceCreate:940	] -- Status -1
+2014-10-25 01:55:22 E/USB     (14271): [CSSVC	][Connsvc_USB_EnumDevice:181	] Connsvc_USB_DeviceCreate fail, deviceName : /dev/android_ssusbcon
+2014-10-25 01:55:22 E/General (14271): [CSSVC	][Connsvc_USB_Init:46	]  -- Status : 0xfffffff4
+2014-10-25 01:55:22 E/General (14271): [CSSVC	][Connsvc_Startup:84	] Connsvc_USB_Init fail. status : -12
+2014-10-25 01:55:22 E/General (14271): [CSSVC	][main:117	] Connsvc_Startup fail. Status : -12
+2014-10-25 01:55:22 E/DatabaseUtils( 3029): Writing exception to parcel
+2014-10-25 01:55:22 E/DatabaseUtils( 3029): java.lang.SecurityException: Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+2014-10-25 01:55:22 E/DatabaseUtils( 3029): 	at com.android.server.am.ActivityManagerService.handleIncomingUser(ActivityManagerService.java:14610)
+2014-10-25 01:55:22 E/DatabaseUtils( 3029): 	at android.app.ActivityManager.handleIncomingUser(ActivityManager.java:2258)
+2014-10-25 01:55:22 E/DatabaseUtils( 3029): 	at com.android.providers.settings.SettingsProvider.call(SettingsProvider.java:663)
+2014-10-25 01:55:22 E/DatabaseUtils( 3029): 	at android.content.ContentProvider$Transport.call(ContentProvider.java:325)
+2014-10-25 01:55:22 E/DatabaseUtils( 3029): 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:275)
+2014-10-25 01:55:22 E/DatabaseUtils( 3029): 	at android.os.Binder.execTransact(Binder.java:404)
+2014-10-25 01:55:22 E/DatabaseUtils( 3029): 	at dalvik.system.NativeStart.run(Native Method)
+2014-10-25 01:55:22 W/ActivityManager( 3029): Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+2014-10-25 01:55:22 I/SpenGestureManager( 3029): setFocusWindow0
+2014-10-25 01:55:22 D/PointerIcon( 3029): setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+2014-10-25 01:55:22 D/PointerIcon( 3029): setMouseCustomIcon IconType is same.101
+2014-10-25 01:55:22 D/PointerIcon( 3029): setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+2014-10-25 01:55:22 D/PointerIcon( 3029): setHoveringSpenCustomIcon IconType is same.1
+2014-10-25 01:55:22 I/SurfaceFlinger( 2540): id=294 createSurf (1x1),1 flag=4, QostsActivi
+2014-10-25 01:55:22 D/STATUSBAR-NetworkController( 3237): refreshSignalCluster: data=-1 bt=false
+2014-10-25 01:55:22 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:22 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:22 D/STATUSBAR-IconMerger( 3237): checkOverflow(648), More:false, Req:false Child:7
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:22 E/QueryController(14005): Got null root node from accessibility - Retrying...
+2014-10-25 01:55:22 D/AbsListView(14036): onDetachedFromWindow
+2014-10-25 01:55:22 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:22 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:22 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:22 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:22 E/ViewRootImpl(14036): sendUserActionEvent() mView == null
+2014-10-25 01:55:22 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:22 I/SurfaceFlinger( 2540): id=293 Removed QostsActivi (11/15)
+2014-10-25 01:55:22 I/SurfaceFlinger( 2540): id=293 Removed QostsActivi (-2/15)
+2014-10-25 01:55:22 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:22 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:22 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:23 D/dalvikvm(14005): GC_CONCURRENT freed 2950K, 81% free 1216K/6104K, paused 1ms+0ms, total 17ms
+2014-10-25 01:55:23 D/dalvikvm(14005): GC_CONCURRENT freed 2005K, 81% free 1167K/6104K, paused 2ms+1ms, total 9ms
+2014-10-25 01:55:23 I/QueryController(14005): Matched selector: UiSelector[TEXT=Sign out, INSTANCE=0] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4b970; boundsInParent: Rect(0, 0 - 834, 88); boundsInScreen: Rect(123, 781 - 957, 869); packageName: org.wordpress.android; className: android.widget.TextView; text: Sign out; contentDescription: null; viewIdResName: android:id/alertTitle; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:23 I/QueryController(14005): Matched selector: UiSelector[TEXT=Sign out, INSTANCE=1, COUNT=1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4c0f2; boundsInParent: Rect(0, 0 - 464, 144); boundsInScreen: Rect(541, 1121 - 1005, 1265); packageName: org.wordpress.android; className: android.widget.Button; text: Sign out; contentDescription: null; viewIdResName: android:id/button1; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:24 I/QueryController(14005): Matched selector: UiSelector[TEXT=Sign out, INSTANCE=1, COUNT=1] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4c0f2; boundsInParent: Rect(0, 0 - 464, 144); boundsInScreen: Rect(541, 1121 - 1005, 1265); packageName: org.wordpress.android; className: android.widget.Button; text: Sign out; contentDescription: null; viewIdResName: android:id/button1; checkable: false; checked: false; focusable: true; focused: false; selected: false; clickable: true; longClickable: false; enabled: true; password: false; scrollable: false; [ACTION_FOCUS, ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_CLICK, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:24 D/InteractionController(14005): clickAndSync(773, 1193)
+2014-10-25 01:55:24 I/InputDispatcher( 3029): Delivering touch to: action: 0x4
+2014-10-25 01:55:24 I/InputDispatcher( 3029): Delivering touch to: action: 0x0
+2014-10-25 01:55:24 I/InputDispatcher( 3029): Delivering touch to: action: 0x1
+2014-10-25 01:55:24 E/DatabaseUtils( 3029): Writing exception to parcel
+2014-10-25 01:55:24 E/DatabaseUtils( 3029): java.lang.SecurityException: Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+2014-10-25 01:55:24 E/DatabaseUtils( 3029): 	at com.android.server.am.ActivityManagerService.handleIncomingUser(ActivityManagerService.java:14610)
+2014-10-25 01:55:24 E/DatabaseUtils( 3029): 	at android.app.ActivityManager.handleIncomingUser(ActivityManager.java:2258)
+2014-10-25 01:55:24 E/DatabaseUtils( 3029): 	at com.android.providers.settings.SettingsProvider.call(SettingsProvider.java:663)
+2014-10-25 01:55:24 E/DatabaseUtils( 3029): 	at android.content.ContentProvider$Transport.call(ContentProvider.java:325)
+2014-10-25 01:55:24 E/DatabaseUtils( 3029): 	at android.content.ContentProviderNative.onTransact(ContentProviderNative.java:275)
+2014-10-25 01:55:24 E/DatabaseUtils( 3029): 	at android.os.Binder.execTransact(Binder.java:404)
+2014-10-25 01:55:24 E/DatabaseUtils( 3029): 	at dalvik.system.NativeStart.run(Native Method)
+2014-10-25 01:55:24 W/ActivityManager( 3029): Permission Denial: get/set setting for user asks to run as user -2 but is calling from user 0; this requires android.permission.INTERACT_ACROSS_USERS_FULL
+2014-10-25 01:55:24 D/GCMRegistrar(14036): resetting backoff for org.wordpress.android
+2014-10-25 01:55:24 V/GCMRegistrar(14036): Unregistering app org.wordpress.android
+2014-10-25 01:55:24 D/BatteryService( 3029): level:77, scale:100, status:2, health:2, present:true, voltage: 4043, temperature: 323, technology: Li-ion, AC powered:false, USB powered:true, Wireless powered:false, icon:17303408, invalid charger:0, online:4, current avg:460, charge type:1
+2014-10-25 01:55:24 D/BatteryService( 3029): Sending ACTION_BATTERY_CHANGED.
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): received broadcast android.intent.action.BATTERY_CHANGED
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): handleBatteryUpdate
+2014-10-25 01:55:24 D/UiModeManager( 3029): mCoverManager.getCoverState() : true
+2014-10-25 01:55:24 D/STATUSBAR-PhoneStatusBar( 3237):  mBrightnessEnablebySettings = true mBrightnessEnablebyBattery = true mBrightnessEnablebyDisableFlag = true mPmsBrightnessEnablebySettings = true
+2014-10-25 01:55:24 D/BatteryMeterView( 3237): ACTION_BATTERY_CHANGED : level:77 status:2 health:2
+2014-10-25 01:55:24 D/SSRMv2:Monitor( 3029): SIOP:: AP = 450, Prev AP = 430, Duration = 10035, PST = 404
+2014-10-25 01:55:24 D/SSRMv2:AmoledAdjustTimer( 3029): prevTemp = 322, currTemp = 323, prevStep = 4, currStep = 4
+2014-10-25 01:55:24 D/STATUSBAR-NetworkController( 3237): refreshSignalCluster: data=-1 bt=false
+2014-10-25 01:55:24 D/STATUSBAR-IconMerger( 3237): checkOverflow(648), More:false, Req:false Child:7
+2014-10-25 01:55:24 I/System.out(15968): IntentService[PushMessagingRegistrar] calls detatch()
+2014-10-25 01:55:24 D/Simperium.WebSocket(14036): main disconnect from socket
+2014-10-25 01:55:24 D/Simperium.WebSocket(14036): Disconnecting
+2014-10-25 01:55:24 D/Simperium.WebSocket(14036): Disconnect null
+2014-10-25 01:55:24 D/WordPress-SIMPERIUM(14036): User not authorized yet
+2014-10-25 01:55:24 D/WordPress-NUX(14036): No accounts configured.  Sending user to set up an account
+2014-10-25 01:55:24 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:24 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:24 D/SSRMv2:CustomFrequencyManagerService( 3029): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  pkgName : ACTIVITY_RESUME_BOOSTER@4
+2014-10-25 01:55:24 W/ActivityManager( 3029): mDVFSHelper.acquire()
+2014-10-25 01:55:24 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1481 com.android.server.am.ActivityStack.startPausingLocked:1006 com.android.server.am.ActivityStack.resumeTopActivityLocked:1945 com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked:3110 com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked:3082
+2014-10-25 01:55:24 D/PointerIcon( 3029): setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+2014-10-25 01:55:24 D/PointerIcon( 3029): setMouseCustomIcon IconType is same.101
+2014-10-25 01:55:24 D/PointerIcon( 3029): setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+2014-10-25 01:55:24 D/PointerIcon( 3029): setHoveringSpenCustomIcon IconType is same.1
+2014-10-25 01:55:24 V/SmartFaceService - 3rd party pause( 3029): onReceive [android.intent.action.ACTIVITY_STATE/org.wordpress.android/pause]
+2014-10-25 01:55:24 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:24 D/Simperium.WebSocket(14036): Disconnect null
+2014-10-25 01:55:24 V/GCMBroadcastReceiver(14036): onReceive: com.google.android.c2dm.intent.REGISTRATION
+2014-10-25 01:55:24 V/GCMBroadcastReceiver(14036): GCM IntentService class: org.wordpress.android.GCMIntentService
+2014-10-25 01:55:24 V/GCMBaseIntentService(14036): Acquiring wakelock
+2014-10-25 01:55:24 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1481 com.android.server.am.ActivityStackSupervisor.realStartActivityLocked:1167 com.android.server.am.ActivityStackSupervisor.startSpecificActivityLocked:1318 com.android.server.am.ActivityStack.resumeTopActivityLocked:2269 com.android.server.am.ActivityStackSupervisor.resumeTopActivitiesLocked:3110
+2014-10-25 01:55:24 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:24 E/ViewRootImpl(14036): sendUserActionEvent() mView == null
+2014-10-25 01:55:24 V/SmartFaceService - 3rd party pause( 3029): onReceive [android.intent.action.ACTIVITY_STATE/org.wordpress.android/create]
+2014-10-25 01:55:24 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:24 V/GCMBaseIntentService(14036): Intent service name: GCMIntentService-DynamicSenderIds-2
+2014-10-25 01:55:24 D/GCMBaseIntentService(14036): handleRegistration: registrationId = null, error = null, unregistered = org.wordpress.android
+2014-10-25 01:55:24 D/GCMRegistrar(14036): resetting backoff for org.wordpress.android
+2014-10-25 01:55:24 V/GCMRegistrar(14036): Saving regId on app version 141
+2014-10-25 01:55:24 W/ApplicationPackageManager(14036): getCSCPackageItemText()
+2014-10-25 01:55:24 V/WordPress-NOTIFS(14036): GCM Unregistered ID: APA91bGb2SfCzLxJC94BP8MjmiDiYbnEHjUxePPEW9-coNpIZfmtgTB_DCUguGOaGly8QFVnaHCwLZOHz4IhaoF5L-anX-R6civ6V7S5jNb2TQ5h6zVCEGkbQr4kPygk7xRMc1KaKggQnPo06fmkMFn1APklxlLz3ydRxlSYxq4W8fACuGYXmUU
+2014-10-25 01:55:24 V/GCMBaseIntentService(14036): Releasing wakelock
+2014-10-25 01:55:24 D/MultiPhoneWindow(14036): generateLayout : sMinimumStackBoundForPortraitOrientRect(0, 0 - 0, 0), sMinimumStackBoundForLandscapeOrient=Rect(0, 0 - 0, 0)
+2014-10-25 01:55:24 V/WordPress-NUX(14036): NewAccountAbstractOage.onCreate()
+2014-10-25 01:55:24 D/WordPress-NOTIFS(14036): Unregister token action succeeded
+2014-10-25 01:55:24 E/QueryController(14005): Got null root node from accessibility - Retrying...
+2014-10-25 01:55:24 I/SurfaceFlinger( 2540): id=295 createSurf (1x1),1 flag=404, XelcomeActi
+2014-10-25 01:55:24 I/SpenGestureManager( 3029): setFocusWindow21040
+2014-10-25 01:55:24 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:24 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:24 D/STATUSBAR-StatusBarManagerService( 3029): manageDisableList what=0x0 pkg=WindowManager.LayoutParams
+2014-10-25 01:55:24 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:24 D/PointerIcon( 3029): setMouseIconStyle1 pointerType: 1001iconType:101 flag:0
+2014-10-25 01:55:24 D/PointerIcon( 3029): setMouseCustomIcon IconType is same.101
+2014-10-25 01:55:24 D/PointerIcon( 3029): setHoveringSpenIconStyle1 pointerType: 10001iconType:1 flag:0
+2014-10-25 01:55:24 D/PointerIcon( 3029): setHoveringSpenCustomIcon IconType is same.1
+2014-10-25 01:55:24 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:24 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:24 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:24 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:24 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:24 W/ContextImpl( 3029): Calling a method in the system process without a qualified user: android.app.ContextImpl.sendBroadcast:1467 com.android.server.InputMethodManagerService$4.run:2759 java.lang.Thread.run:841 <bottom of call stack> <bottom of call stack>
+2014-10-25 01:55:24 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:24 I/SurfaceFlinger( 2540): id=294 Removed QostsActivi (12/15)
+2014-10-25 01:55:24 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:24 I/SurfaceFlinger( 2540): id=294 Removed QostsActivi (-2/15)
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:24 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:24 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:24 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:24 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:24 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:24 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:24 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:24 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:24 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:24 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:24 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:24 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:24 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:24 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:24 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:24 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:24 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:24 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:24 D/dalvikvm(14036): GC_CONCURRENT freed 1577K, 21% free 22358K/27988K, paused 3ms+4ms, total 42ms
+2014-10-25 01:55:25 D/SSRMv2:CustomFrequencyManagerService( 3029): releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  tag : ACTIVITY_RESUME_BOOSTER@4
+2014-10-25 01:55:25 W/ActivityManager( 3029): mDVFSHelper.release()
+2014-10-25 01:55:25 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:25 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:25 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:25 I/SurfaceFlinger( 2540): id=292 Removed QostsActivi (9/14)
+2014-10-25 01:55:25 I/SurfaceFlinger( 2540): id=292 Removed QostsActivi (-2/14)
+2014-10-25 01:55:25 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:25 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:25 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:25 D/SSRMv2:CustomFrequencyManagerService( 3029): acquireDVFSLockLocked : type : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  pkgName : ACTIVITY_RESUME_BOOSTER@7
+2014-10-25 01:55:25 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:25 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:25 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:25 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 4
+2014-10-25 01:55:25 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:25 D/AbsListView(14036): onVisibilityChanged() is called, visibility : 4
+2014-10-25 01:55:25 D/AbsListView(14036): unregisterIRListener() is called
+2014-10-25 01:55:25 D/KeyguardViewMediator( 3237): setHidden false
+2014-10-25 01:55:25 D/KeyguardUpdateMonitor( 3237): sendKeyguardVisibilityChanged(true)
+2014-10-25 01:55:25 D/KeyguardUpdateMonitor( 3237): handleKeyguardVisibilityChanged(1)
+2014-10-25 01:55:25 D/SSRMv2:CustomFrequencyManagerService( 3029): releaseDVFSLockLocked : Getting Lock type frm List : DVFS_MIN_LIMIT  frequency : 1200000  uid : 1000  pid : 3029  tag : ACTIVITY_RESUME_BOOSTER@7
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 I/QueryController(14005): Matched selector: UiSelector[TEXT=Sign in, INSTANCE=0] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4f1c0; boundsInParent: Rect(0, 0 - 984, 126); boundsInScreen: Rect(48, 1040 - 1032, 1166); packageName: org.wordpress.android; className: android.widget.TextView; text: Sign in; contentDescription: null; viewIdResName: org.wordpress.android:id/nux_sign_in_button; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: false; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 E/EnterpriseContainerManager( 3029): ContainerPolicy Service is not yet ready!!!
+2014-10-25 01:55:25 D/EnterpriseDeviceManager( 3029): ContainerId: 0
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin
+2014-10-25 01:55:25 I/QueryController(14005): Matched selector: UiSelector[TEXT=Sign in, INSTANCE=0] <<==>> [android.view.accessibility.AccessibilityNodeInfo@4f1c0; boundsInParent: Rect(0, 0 - 984, 126); boundsInScreen: Rect(48, 1040 - 1032, 1166); packageName: org.wordpress.android; className: android.widget.TextView; text: Sign in; contentDescription: null; viewIdResName: org.wordpress.android:id/nux_sign_in_button; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: true; longClickable: false; enabled: false; password: false; scrollable: false; [ACTION_SELECT, ACTION_CLEAR_SELECTION, ACTION_ACCESSIBILITY_FOCUS, ACTION_NEXT_AT_MOVEMENT_GRANULARITY, ACTION_PREVIOUS_AT_MOVEMENT_GRANULARITY, ACTION_SET_SELECTION]]
+2014-10-25 01:55:25 W/LicenseLogService( 3029): log() is called by non admin

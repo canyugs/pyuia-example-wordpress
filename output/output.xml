@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<robot generated="20141025 01:54:32.813" generator="Robot 2.8.4 (Python 2.7.5 on darwin)">
+<suite source="/Users/jeremy/work/pyuia-example-wordpress/test/signin.txt" id="s1" name="Signin">
+<test id="s1-t1" name="Sign in with valid credentials.">
+<kw type="kw" name="Open the app, and the sign-in screen appears.">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:54:32.947" level="TRACE">Arguments: [  ]</msg>
+<kw type="kw" name="WordPress.Open App">
+<doc></doc>
+<arguments>
+<arg>${device_id}</arg>
+</arguments>
+<msg timestamp="20141025 01:54:32.947" level="TRACE">Arguments: [ u'4d0030f73f8b6063' ]</msg>
+<msg timestamp="20141025 01:54:32.947" level="INFO">Open app; device ID = [4d0030f73f8b6063], alias = [None])</msg>
+<msg timestamp="20141025 01:54:32.948" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session {"desiredCapabilities": {"deviceName": "My Phone", "udid": "4d0030f73f8b6063", "appWaitActivity": ".ui.accounts.WelcomeActivity", "appActivity": ".ui.posts.PostsActivity", "newCommandTimeout": 600, "platformVersion": "4.3", "appPackage": "org.wordpress.android", "platformName": "Android", "app": "/Users/jeremy/work/pyuia-example-wordpress/org.wordpress.android-1.apk"}}</msg>
+<msg timestamp="20141025 01:54:45.758" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:54:45.758" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/timeouts/implicit_wait {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "ms": 3000.0}</msg>
+<msg timestamp="20141025 01:54:45.768" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:54:45.769" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/log {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "type": "logcat"}</msg>
+<msg timestamp="20141025 01:54:46.016" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:54:46.266" html="yes" level="INFO">APP LOGS (Initial): &lt;a href="app_logs_initial_1414173286249.log" target="_blank"&gt;app_logs_initial_1414173286249.log&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:54:46.267" level="TRACE">Return: 1</msg>
+<status status="PASS" endtime="20141025 01:54:46.267" starttime="20141025 01:54:32.947"></status>
+</kw>
+<kw type="kw" name="SignInScreen.Should Be On Sign In Screen">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:54:46.267" level="TRACE">Arguments: [  ]</msg>
+<msg timestamp="20141025 01:54:46.268" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:54:47.589" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:54:47.591" html="yes" level="INFO">BEFORE&lt;br/&gt;&lt;a href="screenshot_1414173287590.png" target="_blank"&gt;&lt;img src="screenshot_1414173287590.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:54:47.591" level="DEBUG">Get page object; FQCN = wpauto.android.signin.SignInScreen</msg>
+<msg timestamp="20141025 01:54:47.592" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element {"using": "name", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "Sign in"}</msg>
+<msg timestamp="20141025 01:54:56.189" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:54:56.190" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/1/displayed {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "1"}</msg>
+<msg timestamp="20141025 01:54:56.304" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:54:56.305" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:54:56.305" starttime="20141025 01:54:46.267"></status>
+</kw>
+<msg timestamp="20141025 01:54:56.305" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:54:56.305" starttime="20141025 01:54:32.947"></status>
+</kw>
+<kw type="kw" name="Sign in with a valid username and password, and the main screen appears.">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:54:56.306" level="TRACE">Arguments: [  ]</msg>
+<kw type="kw" name="SignInScreen.Sign In">
+<doc></doc>
+<arguments>
+<arg>${username}</arg>
+<arg>${password}</arg>
+</arguments>
+<msg timestamp="20141025 01:54:56.306" level="TRACE">Arguments: [ u'imsardine@gmail.com' | u'secret' ]</msg>
+<msg timestamp="20141025 01:54:56.306" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:54:57.422" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:54:57.424" html="yes" level="INFO">BEFORE&lt;br/&gt;&lt;a href="screenshot_1414173297423.png" target="_blank"&gt;&lt;img src="screenshot_1414173297423.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:54:57.424" level="DEBUG">Get page object; FQCN = wpauto.android.signin.SignInScreen</msg>
+<msg timestamp="20141025 01:54:57.424" level="DEBUG">Cached, and the context remains unchanged.</msg>
+<msg timestamp="20141025 01:54:57.425" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/elements {"using": "class name", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "android.widget.EditText"}</msg>
+<msg timestamp="20141025 01:54:57.512" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:54:57.513" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/2/value {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "2", "value": ["i", "m", "s", "a", "r", "d", "i", "n", "e", "@", "g", "m", "a", "i", "l", ".", "c", "o", "m"]}</msg>
+<msg timestamp="20141025 01:55:01.751" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:01.752" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/elements {"using": "class name", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "android.widget.EditText"}</msg>
+<msg timestamp="20141025 01:55:02.505" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:02.505" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/5/value {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "5", "value": ["w", "@", "r", "d", "2", "2", "1", "6"]}</msg>
+<msg timestamp="20141025 01:55:05.416" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:05.416" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/appium/device/keyevent {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "keycode": 4}</msg>
+<msg timestamp="20141025 01:55:06.006" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:06.006" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element {"using": "name", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "Sign in"}</msg>
+<msg timestamp="20141025 01:55:06.161" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:06.161" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/6/click {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "6"}</msg>
+<msg timestamp="20141025 01:55:06.603" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:06.603" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/log {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "type": "logcat"}</msg>
+<msg timestamp="20141025 01:55:06.661" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:06.714" html="yes" level="INFO">APP LOGS (Step): &lt;a href="app_logs_step_1414173306704.log" target="_blank"&gt;app_logs_step_1414173306704.log&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:06.715" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:07.970" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:07.972" html="yes" level="INFO">AFTER&lt;br/&gt;&lt;a href="screenshot_1414173307970.png" target="_blank"&gt;&lt;img src="screenshot_1414173307970.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:07.972" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:55:07.972" starttime="20141025 01:54:56.306"></status>
+</kw>
+<kw type="kw" name="MainScreen.Should Be On Main Screen">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:55:07.972" level="TRACE">Arguments: [  ]</msg>
+<msg timestamp="20141025 01:55:07.972" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:09.046" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:09.048" html="yes" level="INFO">BEFORE&lt;br/&gt;&lt;a href="screenshot_1414173309047.png" target="_blank"&gt;&lt;img src="screenshot_1414173309047.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:09.048" level="DEBUG">Get page object; FQCN = wpauto.android.main.MainScreen</msg>
+<msg timestamp="20141025 01:55:09.048" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:55:09.048" starttime="20141025 01:55:07.972"></status>
+</kw>
+<msg timestamp="20141025 01:55:09.049" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:55:09.049" starttime="20141025 01:54:56.305"></status>
+</kw>
+<kw type="kw" name="Go to 'Settings', and check if the username is correct.">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:55:09.049" level="TRACE">Arguments: [  ]</msg>
+<kw type="kw" name="MainScreen.Go To Settings">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:55:09.049" level="TRACE">Arguments: [  ]</msg>
+<msg timestamp="20141025 01:55:09.050" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:09.994" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:09.997" html="yes" level="INFO">BEFORE&lt;br/&gt;&lt;a href="screenshot_1414173309995.png" target="_blank"&gt;&lt;img src="screenshot_1414173309995.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:09.997" level="DEBUG">Get page object; FQCN = wpauto.android.main.MainScreen</msg>
+<msg timestamp="20141025 01:55:09.997" level="DEBUG">Cached, and the context remains unchanged.</msg>
+<msg timestamp="20141025 01:55:09.997" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/appium/device/keyevent {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "keycode": 82}</msg>
+<msg timestamp="20141025 01:55:10.435" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:11.437" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element {"using": "name", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "Settings"}</msg>
+<msg timestamp="20141025 01:55:11.503" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:11.503" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/7/click {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "7"}</msg>
+<msg timestamp="20141025 01:55:12.564" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:12.564" level="DEBUG">Get page object; FQCN = wpauto.android.main.SettingsScreen</msg>
+<msg timestamp="20141025 01:55:12.565" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element {"using": "id", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "android:id/action_bar_title"}</msg>
+<msg timestamp="20141025 01:55:13.074" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:13.074" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/8/text {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "8"}</msg>
+<msg timestamp="20141025 01:55:13.161" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:13.161" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/log {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "type": "logcat"}</msg>
+<msg timestamp="20141025 01:55:13.193" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:13.210" html="yes" level="INFO">APP LOGS (Step): &lt;a href="app_logs_step_1414173313201.log" target="_blank"&gt;app_logs_step_1414173313201.log&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:13.210" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:14.455" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:14.459" html="yes" level="INFO">AFTER&lt;br/&gt;&lt;a href="screenshot_1414173314458.png" target="_blank"&gt;&lt;img src="screenshot_1414173314458.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:14.460" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:55:14.460" starttime="20141025 01:55:09.049"></status>
+</kw>
+<kw type="kw" name="${username_displayed} = SettingsScreen.Get Username">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:55:14.460" level="TRACE">Arguments: [  ]</msg>
+<msg timestamp="20141025 01:55:14.460" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:15.650" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:15.654" html="yes" level="INFO">BEFORE&lt;br/&gt;&lt;a href="screenshot_1414173315652.png" target="_blank"&gt;&lt;img src="screenshot_1414173315652.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:15.654" level="DEBUG">Get page object; FQCN = wpauto.android.main.SettingsScreen</msg>
+<msg timestamp="20141025 01:55:15.654" level="DEBUG">Cached, and the context remains unchanged.</msg>
+<msg timestamp="20141025 01:55:15.654" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element {"using": "xpath", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "//android.widget.TextView[@text='Username']/following-sibling::android.widget.TextView"}</msg>
+<msg timestamp="20141025 01:55:15.802" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:15.802" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/9/text {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "9"}</msg>
+<msg timestamp="20141025 01:55:15.822" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:15.822" level="TRACE">Return: u'imsardine@gmail.com'</msg>
+<msg timestamp="20141025 01:55:15.822" level="INFO">${username_displayed} = imsardine@gmail.com</msg>
+<status status="PASS" endtime="20141025 01:55:15.822" starttime="20141025 01:55:14.460"></status>
+</kw>
+<kw type="kw" name="BuiltIn.Should Be Equal">
+<doc>Fails if the given objects are unequal.</doc>
+<arguments>
+<arg>${username_displayed}</arg>
+<arg>${username}</arg>
+</arguments>
+<msg timestamp="20141025 01:55:15.823" level="TRACE">Arguments: [ u'imsardine@gmail.com' | u'imsardine@gmail.com' ]</msg>
+<msg timestamp="20141025 01:55:15.823" level="INFO">Argument types are:
+&lt;type 'unicode'&gt;
+&lt;type 'unicode'&gt;</msg>
+<msg timestamp="20141025 01:55:15.823" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:55:15.823" starttime="20141025 01:55:15.823"></status>
+</kw>
+<kw type="kw" name="SettingsScreen.Back To Main Screen">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:55:15.824" level="TRACE">Arguments: [  ]</msg>
+<msg timestamp="20141025 01:55:15.824" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:17.025" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:17.029" html="yes" level="INFO">BEFORE&lt;br/&gt;&lt;a href="screenshot_1414173317027.png" target="_blank"&gt;&lt;img src="screenshot_1414173317027.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:17.029" level="DEBUG">Get page object; FQCN = wpauto.android.main.SettingsScreen</msg>
+<msg timestamp="20141025 01:55:17.029" level="DEBUG">Cached, and the context remains unchanged.</msg>
+<msg timestamp="20141025 01:55:17.029" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element {"using": "id", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "android:id/action_bar"}</msg>
+<msg timestamp="20141025 01:55:17.067" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:17.067" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/10/element {"using": "class name", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "10", "value": "android.widget.LinearLayout"}</msg>
+<msg timestamp="20141025 01:55:17.099" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:17.099" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/11/click {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "11"}</msg>
+<msg timestamp="20141025 01:55:17.536" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:17.536" level="DEBUG">Get page object; FQCN = wpauto.android.main.MainScreen</msg>
+<msg timestamp="20141025 01:55:17.536" level="DEBUG">Cached, and the context remains unchanged.</msg>
+<msg timestamp="20141025 01:55:17.537" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/log {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "type": "logcat"}</msg>
+<msg timestamp="20141025 01:55:17.549" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:17.559" html="yes" level="INFO">APP LOGS (Step): &lt;a href="app_logs_step_1414173317549.log" target="_blank"&gt;app_logs_step_1414173317549.log&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:17.559" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:18.592" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:18.596" html="yes" level="INFO">AFTER&lt;br/&gt;&lt;a href="screenshot_1414173318595.png" target="_blank"&gt;&lt;img src="screenshot_1414173318595.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:18.596" level="TRACE">Return: &lt;wpauto.android.main.MainScreen object at 0x965390&gt;</msg>
+<status status="PASS" endtime="20141025 01:55:18.596" starttime="20141025 01:55:15.824"></status>
+</kw>
+<msg timestamp="20141025 01:55:18.597" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:55:18.596" starttime="20141025 01:55:09.049"></status>
+</kw>
+<kw type="kw" name="Sign out, and the sign-in screen appears again.">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:55:18.597" level="TRACE">Arguments: [  ]</msg>
+<kw type="kw" name="MainScreen.Sign Out">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:55:18.597" level="TRACE">Arguments: [  ]</msg>
+<msg timestamp="20141025 01:55:18.598" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:19.722" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:19.724" html="yes" level="INFO">BEFORE&lt;br/&gt;&lt;a href="screenshot_1414173319723.png" target="_blank"&gt;&lt;img src="screenshot_1414173319723.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:19.725" level="DEBUG">Get page object; FQCN = wpauto.android.main.MainScreen</msg>
+<msg timestamp="20141025 01:55:19.725" level="DEBUG">Cached, and the context remains unchanged.</msg>
+<msg timestamp="20141025 01:55:19.725" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/appium/device/keyevent {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "keycode": 82}</msg>
+<msg timestamp="20141025 01:55:19.774" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:20.776" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:22.020" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:22.023" html="yes" level="INFO">Context menu opened. (MainScreen)&lt;br/&gt;&lt;a href="screenshot_1414173322022.png" target="_blank"&gt;&lt;img src="screenshot_1414173322022.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:22.023" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element {"using": "name", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "Sign out"}</msg>
+<msg timestamp="20141025 01:55:22.046" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:22.046" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/12/click {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "12"}</msg>
+<msg timestamp="20141025 01:55:22.648" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:22.648" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:23.938" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:23.941" html="yes" level="INFO">Confirmation dialog appeared. (MainScreen)&lt;br/&gt;&lt;a href="screenshot_1414173323940.png" target="_blank"&gt;&lt;img src="screenshot_1414173323940.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:23.942" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/elements {"using": "name", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "Sign out"}</msg>
+<msg timestamp="20141025 01:55:23.998" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:23.998" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/14/click {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "14"}</msg>
+<msg timestamp="20141025 01:55:24.909" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:24.909" level="DEBUG">Get page object; FQCN = wpauto.android.signin.SignInScreen</msg>
+<msg timestamp="20141025 01:55:24.909" level="DEBUG">Cached, and the context remains unchanged.</msg>
+<msg timestamp="20141025 01:55:24.910" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element {"using": "name", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "Sign in"}</msg>
+<msg timestamp="20141025 01:55:25.476" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:25.477" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/15/displayed {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "15"}</msg>
+<msg timestamp="20141025 01:55:25.504" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:25.504" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/log {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "type": "logcat"}</msg>
+<msg timestamp="20141025 01:55:25.519" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:25.530" html="yes" level="INFO">APP LOGS (Step): &lt;a href="app_logs_step_1414173325521.log" target="_blank"&gt;app_logs_step_1414173325521.log&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:25.530" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:26.564" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:26.566" html="yes" level="INFO">AFTER&lt;br/&gt;&lt;a href="screenshot_1414173326565.png" target="_blank"&gt;&lt;img src="screenshot_1414173326565.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:26.566" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:55:26.566" starttime="20141025 01:55:18.597"></status>
+</kw>
+<kw type="kw" name="SignInScreen.Should Be On Sign In Screen">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:55:26.567" level="TRACE">Arguments: [  ]</msg>
+<msg timestamp="20141025 01:55:26.567" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/screenshot {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:27.536" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:27.538" html="yes" level="INFO">BEFORE&lt;br/&gt;&lt;a href="screenshot_1414173327537.png" target="_blank"&gt;&lt;img src="screenshot_1414173327537.png" width="200"&gt;&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:27.538" level="DEBUG">Get page object; FQCN = wpauto.android.signin.SignInScreen</msg>
+<msg timestamp="20141025 01:55:27.538" level="DEBUG">Cached, and the context remains unchanged.</msg>
+<msg timestamp="20141025 01:55:27.539" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element {"using": "name", "sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "value": "Sign in"}</msg>
+<msg timestamp="20141025 01:55:27.602" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:27.602" level="DEBUG">GET http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/element/16/displayed {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "id": "16"}</msg>
+<msg timestamp="20141025 01:55:27.626" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:27.626" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:55:27.626" starttime="20141025 01:55:26.567"></status>
+</kw>
+<msg timestamp="20141025 01:55:27.626" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:55:27.626" starttime="20141025 01:55:18.597"></status>
+</kw>
+<kw type="teardown" name="WordPress.Close App">
+<doc></doc>
+<arguments>
+</arguments>
+<msg timestamp="20141025 01:55:27.626" level="TRACE">Arguments: [  ]</msg>
+<msg timestamp="20141025 01:55:27.627" level="DEBUG">POST http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b/log {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b", "type": "logcat"}</msg>
+<msg timestamp="20141025 01:55:27.643" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:27.666" html="yes" level="INFO">APP LOGS (about to quit, failed = False): &lt;a href="app_logs_all_1414173327656.log" target="_blank"&gt;app_logs_all_1414173327656.log&lt;/a&gt;</msg>
+<msg timestamp="20141025 01:55:27.667" level="DEBUG">DELETE http://127.0.0.1:4723/wd/hub/session/26b62db1-b436-4505-948f-7bab930ad22b {"sessionId": "26b62db1-b436-4505-948f-7bab930ad22b"}</msg>
+<msg timestamp="20141025 01:55:28.477" level="DEBUG">Finished Request</msg>
+<msg timestamp="20141025 01:55:28.477" level="TRACE">Return: None</msg>
+<status status="PASS" endtime="20141025 01:55:28.477" starttime="20141025 01:55:27.626"></status>
+</kw>
+<doc></doc>
+<tags>
+</tags>
+<status status="PASS" endtime="20141025 01:55:28.477" critical="yes" starttime="20141025 01:54:32.946"></status>
+</test>
+<doc></doc>
+<metadata>
+</metadata>
+<status status="PASS" endtime="20141025 01:55:28.478" starttime="20141025 01:54:32.814"></status>
+</suite>
+<statistics>
+<total>
+<stat fail="0" pass="1">Critical Tests</stat>
+<stat fail="0" pass="1">All Tests</stat>
+</total>
+<tag>
+</tag>
+<suite>
+<stat fail="0" pass="1" id="s1" name="Signin">Signin</stat>
+</suite>
+</statistics>
+<errors>
+</errors>
+</robot>
