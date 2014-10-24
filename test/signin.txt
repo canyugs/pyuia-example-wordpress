@@ -1,0 +1,37 @@
+*** Settings ***
+Library           WordPress
+Library           SignInScreen
+Library           MainScreen
+Library           SettingsScreen
+
+*** Variables ***
+${username}       <USERNAME>
+${password}       <PASSWORD>
+${device_id}      <DEVICE_ID>
+
+*** Test Cases ***
+Sign in with valid credentials.
+    Open the app, and the sign-in screen appears.
+    Sign in with a valid username and password, and the main screen appears.
+    Go to 'Settings', and check if the username is correct.
+    Sign out, and the sign-in screen appears again.
+    [Teardown]    Close App
+
+*** Keywords ***
+Open the app, and the sign-in screen appears.
+    Open App    ${device_id}
+    Should Be On Sign In Screen
+
+Sign in with a valid username and password, and the main screen appears.
+    Sign In    ${username}    ${password}
+    Should Be On Main Screen
+
+Go to 'Settings', and check if the username is correct.
+    Go To Settings
+    ${username_displayed}=    Get Username
+    Should Be Equal    ${username_displayed}    ${username}
+    Back To Main Screen
+
+Sign out, and the sign-in screen appears again.
+    Sign Out
+    Should Be On Sign In Screen
