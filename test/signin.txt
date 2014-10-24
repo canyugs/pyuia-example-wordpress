@@ -1,13 +1,9 @@
 *** Settings ***
+Resource          resource.txt
 Library           WordPress
 Library           SignInScreen
 Library           MainScreen
 Library           SettingsScreen
-
-*** Variables ***
-${username}       <USERNAME>
-${password}       <PASSWORD>
-${device_id}      <DEVICE_ID>
 
 *** Test Cases ***
 Sign in with valid credentials.

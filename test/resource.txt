@@ -1,0 +1,4 @@
+*** Variables ***
+${username}       <USERNAME>
+${password}       <PASSWORD>
+${device_id}      <SERIALNO>

@@ -4,6 +4,8 @@ from pyuia.appium import AppiumContext
 
 __all__ = ['WordPress', 'WPPageLibrary']
 
+PATH_TO_WORDPRESS_APK = '/path/to/wordpress.apk'
+
 class WordPress(BaseAppLibrary):
 
     def _init_context(self, device_id):
@@ -15,7 +17,7 @@ class WordPress(BaseAppLibrary):
             'deviceName': 'My Phone',
             'platformName': 'Android',
             'platformVersion': '4.3',
-            'app': '/path/to/wordpress.apk',
+            'app': PATH_TO_WORDPRESS_APK,
             'appPackage': 'org.wordpress.android',
             'appActivity': '.ui.posts.PostsActivity',
             'appWaitActivity': '.ui.accounts.WelcomeActivity',
